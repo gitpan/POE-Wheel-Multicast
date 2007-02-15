@@ -1,0 +1,9 @@
+Changes
+lib/POE/Filter/DNS.pm
+lib/POE/Filter/MDNS.pm
+lib/POE/Wheel/Multicast.pm
+Makefile.PL
+MANIFEST
+README
+t/00-use.t
+META.yml                                 Module meta-data (added by MakeMaker)
